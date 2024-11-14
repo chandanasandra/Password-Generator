@@ -1,2 +1,2 @@
 # Password-Generator
-Password generator project using React. Implemented to learn the fundamentals of hook, useState, useEffect, useRef and useCallback.
+Password generator project using React. Implemented to learn the fundamentals of hooks, useState, useEffect, useRef and useCallback.
